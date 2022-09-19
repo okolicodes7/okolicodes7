@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Okoli Favour C and I'm a Blockchain Developer.
 Welcome to my github page! <br> 
  
-Resume:  [Okoli Favour C](https://resume.okoli.com) (PDF download)
+<!-- Resume:  [Okoli Favour C](https://resume.okoli.com) (PDF download) -->
  
  
 🌱 *Currently Learning*: Solidity and React<br> 
@@ -18,3 +18,7 @@ Resume:  [Okoli Favour C](https://resume.okoli.com) (PDF download)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I play video Games at my leisure time<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My favorite Game is FIFA  🎮  <br>
  
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=okolicodes7&show_icons=true&theme=tokyonight" 
+/>
