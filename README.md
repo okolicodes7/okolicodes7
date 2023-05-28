@@ -6,12 +6,12 @@
 
 Welcome to my github page! <br> 
  
-<!-- Resume:  [Okoli Favour C](https://resume.okoli.com) (PDF download) -->
+
  
  
-🌱 *Currently Improving on my* Solidity and React Skills<br> 
-🤔 *Looking for help*: I'm currently looking for Blockchain Developer roles as I can work as a Solidity Engineer, Blockchain Expert etc.<br>
-💬 Ask me about: how to Write Smart Contracts, Building a Decentralized App, Building Blockchains, creating ERC-20 tokens, NFTs etc. <br>
+🌱 *Currently Improving on my* Solidity and Security Research skills<br> 
+
+💬 Ask me about: how to Write Smart Contracts, Smart Contract research, Smart ontract security etc. <br>
  
 ⚡ Fun facts:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I play video Games at my leisure time<br>
