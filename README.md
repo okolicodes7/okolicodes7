@@ -2,7 +2,7 @@
  
 
 ### Hi there 👋, I'm Okoli Favour C. and I'm a :
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans&size=22&pause=1000&color=E23110&width=435&lines=Blockchain+Developer;Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans&size=22&pause=1000&color=E23110&width=435&lines=Blockchain+Security+Researcher;)](https://git.io/typing-svg)
 
 Welcome to my github page! <br> 
  
