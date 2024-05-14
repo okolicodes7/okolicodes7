@@ -6,8 +6,6 @@
 
 Welcome to my github page! <br> 
  
-
- 
  
 🌱 *Currently Improving on my* Solidity and Security Research skills<br> 
 
