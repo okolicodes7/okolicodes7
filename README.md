@@ -11,7 +11,7 @@ Welcome to my github page! <br>
  
 🌱 *Currently Improving on my* Solidity and Security Research skills<br> 
 
-💬 Ask me about: how to Write Smart Contracts, Smart Contract research, Smart ontract security etc. <br>
+💬 Ask me about: how to Write Smart Contracts, Smart Contract research, Smart contract security etc. <br>
  
 ⚡ Fun facts:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I play video Games at my leisure time<br>
