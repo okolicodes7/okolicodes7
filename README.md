@@ -1,9 +1,7 @@
 <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
  
 
-### Hi there 👋, I'm Okoli Favour C. and I'm a :
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans&size=22&pause=1000&color=E23110&width=435&lines=Blockchain+Security+Researcher;)](https://git.io/typing-svg)
-
+### Hi there 👋, I'm Okoli Favour C. and I'm a Security Researcher
 Welcome to my github page! <br> 
  
  
