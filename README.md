@@ -17,7 +17,3 @@ Welcome to my github page! <br>
 ### How to Connect with Me:
 <a href="https://twitter.com/okolicodes" rel="nofollow"><img alt="Adebayo's Twitter Link" src="https://github.com/OleanjiKingCode/OleanjiKingCode/raw/master/003-twitter.png" width="5%" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/chimdiuto-okoli-32a2191b2/" rel="nofollow"><img src="https://github.com/OleanjiKingCode/OleanjiKingCode/raw/master/004-linkedin.png" width="5%" style="max-width: 100%;"></a>
-### My GitHub Stats
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=okolicodes7&show_icons=true&theme=tokyonight" 
-/>
